@@ -1,19 +1,19 @@
 {
-	"name": "phpgt/dom",
+	"name": "magento/dom",
 	"description": "The modern DOM API for PHP 7 projects.",
 	"type": "library",
 
 	"require": {
-		"php": ">=7.2",
+		"php": ">=7.1",
 		"ext-dom": "*",
 		"ext-libxml": "*",
 		"ext-mbstring": "*",
-		"phpgt/cssxpath": "*",
+		"magento/cssxpath": "*",
 		"psr/http-message": "1.*"
 	},
 
 	"require-dev": {
-		"phpunit/phpunit": "8.*"
+		"phpunit/phpunit": "7.*"
 	},
 
 	"license": "MIT",
