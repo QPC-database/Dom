@@ -16,6 +16,10 @@
 		"phpunit/phpunit": "7.*"
 	},
 
+	"conflict": {
+		"phpgt/dom": "*"
+	},
+
 	"license": "MIT",
 
 	"authors": [

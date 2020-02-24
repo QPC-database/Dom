@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "560e75e062a6b17e0c2dad3c53dc41dd",
+    "content-hash": "8effdf357d4806e9f4f171d456633866",
     "packages": [
         {
             "name": "magento/cssxpath",
